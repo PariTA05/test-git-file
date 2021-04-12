@@ -1,6 +1,6 @@
-hello
+feature-1
 
 codecamp
 
-people 
-add
+teacher
+
